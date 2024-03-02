@@ -1,5 +1,5 @@
 ## Code written by Minoqi @2024 under the MIT license
-## Documentation: 
+## Documentation: https://github.com/Minoqi/minos-UUID-generator-for-godot
 
 @tool
 extends Node
