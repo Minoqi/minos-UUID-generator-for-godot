@@ -25,7 +25,7 @@ Copy the `minos_uuid_generator` directory into your `res://addons/` directory. T
 
 ## Contributors
 
-Minos UUID Generator for Godot is made by Minoqi.
+Minos UUID Generator for Godot is made by [Minoqi](https://freelancefelix.com).
 
 ## License
 
