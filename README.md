@@ -20,12 +20,12 @@ Copy the `addons/minos_uuid_generator` directory into your `res://addons/` direc
 
 ## Documentation
 
-- GDScript
+- [GDScript](Documentation/GDScriptDocumentation.md)
 - C# Coming soon!
 
 ## Contributors
 
-Godot Sound Manager is made by Minoqi.
+Minos UUID Generator for Godot is made by Minoqi.
 
 ## License
 
