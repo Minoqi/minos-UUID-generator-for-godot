@@ -1,6 +1,6 @@
 # Usage with GDScript
 
-There are two ways to use the UUID generator, in eidtor or at runtime.
+There are two ways to use the UUID generator, in eidtor or at runtime. *Make sure to have followed the installation steps first!*
 
 ## In Editor
 
