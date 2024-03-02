@@ -1,6 +1,6 @@
 <img src="minos_uuid_generator/uuidIcon.svg" width="128" height="128">
 
-# Minos UUID Generator for Godot
+# [Minos UUID Generator](https://minosuuidgenerator.carrd.co) for Godot
 
 A UUID generator for [Godot Engine](https://godotengine.org/), with 1.295×10^50 combinations it'll work for any sized game, never having to worry about running out of unique IDs! Automatically stores new UUIDs and removes old ones.
 
@@ -30,3 +30,5 @@ Minos UUID Generator for Godot is made by Minoqi.
 ## License
 
 Licensed under the MIT license, see `LICENSE` for more information.
+
+## [Website](https://minosuuidgenerator.carrd.co)
