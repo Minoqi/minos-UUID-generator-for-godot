@@ -30,5 +30,3 @@ Minos UUID Generator for Godot is made by Minoqi.
 ## License
 
 Licensed under the MIT license, see `LICENSE` for more information.
-
-## [Website](https://minosuuidgenerator.carrd.co)
