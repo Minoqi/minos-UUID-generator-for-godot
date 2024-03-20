@@ -19,6 +19,7 @@ A UUID generator for [Godot Engine](https://godotengine.org/), with 1.295×10^50
 Copy the `minos_uuid_generator` directory into your `res://addons/` directory. Then make sure to enable the plugin in `Project Settings -> Plugins`.
 
 ## Documentation
+
 - [Github Ver](Documentation/GDScriptDocumentation.md)
 - [Website Ver](https://minosuuidgenerator.carrd.co/#docs)
 
